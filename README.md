@@ -40,7 +40,7 @@ Below is a table representing various test cases and their expected results:
 
 ## Additional Information
 
-- `backend/rest/cat_facts_pytest/test`: Contains test files written using `pytest`.
-- `backend/rest/common/helpers.py`: Contains common functions needed for sending and validating a http request.
+- `backend\rest\cat_facts_pytest\test`: Contains test files written using `pytest`.
+- `backend\rest\common\helpers.py`: Contains common functions needed for sending and validating a http request.
 - `requirements.txt`: Contains a list of Python dependencies required for this project.
 - `README.md`: This file, containing project information, installation steps, and test case details.
